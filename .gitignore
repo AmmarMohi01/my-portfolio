@@ -22,10 +22,6 @@ bin/
 *.iws
 *.iml
 *.ipr
-*.log
-*.class
-*.jar
-.DS_Store
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
